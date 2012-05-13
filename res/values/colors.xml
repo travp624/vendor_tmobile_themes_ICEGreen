@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="arcee_maincolor">#ff31fd0d</color>
+    <color name="arcee_maincolor_dark">#ff1fa008</color>
+    <color name="arcee_maincolor_bright">#ff31ff0d</color>
+</resources>
